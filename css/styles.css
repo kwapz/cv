@@ -2,7 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather Sans", sans-serif;
-  color: #40514E;
+  color: #40514e;
 }
 
 h1 {
@@ -27,8 +27,7 @@ h3 {
 }
 
 hr {
-
-  border: dotted #EAF6F6 8px;
+  border: dotted #eaf6f6 8px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -44,17 +43,14 @@ html {
   padding-top: 100px;
 }
 
-
 .middle-container {
   margin: 100px 0 100px 0;
 }
 
 .bottom-container {
-  background-color: #EEE9DA;
+  background-color: #eee9da;
   padding: 50px 0 20px;
 }
-
-
 
 .get-in-touch-heading {
   margin-bottom: 100px;
@@ -94,7 +90,7 @@ html {
   margin-left: 30px;
 }
 
-.homelabbing-image {
+.viz-image {
   width: 200px;
   float: left;
   margin-right: 30px;
@@ -122,17 +118,17 @@ html {
 }
 
 .copyright {
-  color: #BDCDD6;
+  color: #bdcdd6;
   font-size: 0.75rem;
 }
 
 .btn {
   background: #6096b4;
-  background-image: -webkit-linear-gradient(top, #6096b4, #93BFCF);
-  background-image: -moz-linear-gradient(top, #6096b4, #93BFCF);
-  background-image: -ms-linear-gradient(top, #6096b4, #93BFCF);
-  background-image: -o-linear-gradient(top, #6096b4, #93BFCF);
-  background-image: linear-gradient(to bottom, #6096b4, #93BFCF);
+  background-image: -webkit-linear-gradient(top, #6096b4, #93bfcf);
+  background-image: -moz-linear-gradient(top, #6096b4, #93bfcf);
+  background-image: -ms-linear-gradient(top, #6096b4, #93bfcf);
+  background-image: -o-linear-gradient(top, #6096b4, #93bfcf);
+  background-image: linear-gradient(to bottom, #6096b4, #93bfcf);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
@@ -144,12 +140,12 @@ html {
 }
 
 .btn:hover {
-  background: #BDCDD6;
-  background-image: -webkit-linear-gradient(top, #BDCDD6, #66beed);
-  background-image: -moz-linear-gradient(top, #BDCDD6, #66beed);
-  background-image: -ms-linear-gradient(top, #BDCDD6, #66beed);
-  background-image: -o-linear-gradient(top, #BDCDD6, #66beed);
-  background-image: linear-gradient(to bottom, #BDCDD6, #66beed);
+  background: #bdcdd6;
+  background-image: -webkit-linear-gradient(top, #bdcdd6, #66beed);
+  background-image: -moz-linear-gradient(top, #bdcdd6, #66beed);
+  background-image: -ms-linear-gradient(top, #bdcdd6, #66beed);
+  background-image: -o-linear-gradient(top, #bdcdd6, #66beed);
+  background-image: linear-gradient(to bottom, #bdcdd6, #66beed);
   text-decoration: none;
 }
 
@@ -159,7 +155,6 @@ html {
   text-align: left;
   line-height: 2;
 }
-
 
 .introduction-description {
   width: 30%;
@@ -171,10 +166,10 @@ html {
   margin: 40px auto 60px;
 }
 
-.contact-me{
+.contact-me {
   padding-bottom: 100px;
 }
 
-.networking-heading {
+/* .networking-heading {
   padding-top: 20px;
-}
+} */
