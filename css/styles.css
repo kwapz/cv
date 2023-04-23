@@ -34,6 +34,10 @@ hr {
   margin: 100px auto;
 }
 
+html {
+  height: 100%;
+}
+
 .top-container {
   background-color: #eee9da;
   position: relative;
@@ -68,7 +72,7 @@ hr {
 
 .bottom-cloud {
   position: absolute;
-  left: 250px;
+  left: 100px;
   bottom: 300px;
 }
 
@@ -84,16 +88,17 @@ hr {
   margin-right: 30px;
 }
 
-/*.code-skill-description {
-  clear: left;
-}*/
-
-.beer-image {
+.networking-image {
   width: 25%;
   float: right;
   margin-left: 30px;
 }
 
+.homelabbing-image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
 .link {
   color: #6096b4;
 }
@@ -156,7 +161,7 @@ hr {
 }
 
 
-.introduction-description{
+.introduction-description {
   width: 30%;
   margin: auto;
 }
@@ -164,4 +169,12 @@ hr {
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+}
+
+.contact-me{
+  padding-bottom: 100px;
+}
+
+.networking-heading {
+  padding-top: 20px;
 }
